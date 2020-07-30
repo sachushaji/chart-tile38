@@ -1,5 +1,3 @@
-/!\ Unmaintained
-
 # Tile38
 
 This is a helm chart to install [Tile38](http://tile38.com) on a Kubernetes cluster.
